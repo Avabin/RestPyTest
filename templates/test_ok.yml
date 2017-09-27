@@ -1,0 +1,3 @@
+- message: Test health
+  method: GET
+  endpoint: /health
