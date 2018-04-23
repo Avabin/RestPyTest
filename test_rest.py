@@ -40,7 +40,7 @@ from rx import Observable
 """
 Path to directory with templates
 """
-template_dir = "templates"
+template_dir = "../templates"
 """
 REST service URL
 """
